@@ -4,7 +4,7 @@
 
 PassHarvester recursively scans directories of any size — from small config folders to 100GB+ breach dumps — and extracts passwords into a clean, deduplicated wordlist. Output is directly compatible with **hashcat**, **John the Ripper**, **aircrack-ng**, and any tool that accepts a wordlist file.
 
-Built for real-world pentesting workflows: constant memory usage, crash-safe checkpointing, live progress tracking, and instant Ctrl+C saves — even mid-way through an 88GB file.
+Built for real-world pentesting workflows: constant memory usage, crash-safe checkpointing, live progress tracking, and instant Ctrl+C saves — even mid-way through an 100GB+ file.
 
 ---
 
