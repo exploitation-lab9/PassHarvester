@@ -310,7 +310,7 @@ This tool does not perform any network attacks, credential stuffing, or unauthor
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+GPL v3
 
 ---
 
